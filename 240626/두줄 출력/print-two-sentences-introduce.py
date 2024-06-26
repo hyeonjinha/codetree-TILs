@@ -1,2 +1,2 @@
 print("Hello students!")
-printf("Welcome to LeebrosCode")
+print("Welcome to LeebrosCode")
